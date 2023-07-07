@@ -1,7 +1,7 @@
 # Re:Telegram
 An Xposed module to enhance the Telegram
 
-[![Release](https://img.shields.io/github/release/Sakion-Team/Re-Telegram.svg)](https://github.com/Sakion-Team/Re-Telegram/releases/latest)
+[![Release](https://img.shields.io/github/release/Xposed-Modules-Repo/nep.timeline.re_telegram.svg)](https://github.com/Xposed-Modules-Repo/nep.timeline.re_telegram/releases/latest)
 [![CI_Build](https://github.com/Sakion-Team/Re-Telegram/actions/workflows/android.yml/badge.svg)](https://github.com/Sakion-Team/Re-Telegram/actions/workflows/android.yml)
 
 ## FAQ
